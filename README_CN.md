@@ -109,6 +109,8 @@
   一款漂亮而清新的主题，专为分享笔记而设计。你值得一试！
 * [ysslang's 主题](https://github.com/zadam/trilium/discussions/2681) ![ysslang's 主题](https://img.shields.io/github/gist/last-commit/46e2a57ca95ba9c7368cbd255d1ac769)
   纸张效果搭配阴影效果，酷毙了！
+* [白色简约主题]([https://github.com/Shmaur/WhiteMinimalist-Theme)
+  一款基于 Trilium 分享功能设计的简约白色博客分享主题，包含菜单导航及页面大纲，兼容移动端样式。简单清新。
 
 ---
 
